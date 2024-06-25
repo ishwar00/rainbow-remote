@@ -2,3 +2,5 @@ red red red
 red is first color of the rainbow
 orange orange orange
 orange is the second color of the rainbow
+yellow yellow yellow
+yellow is the third color of the rainbow
