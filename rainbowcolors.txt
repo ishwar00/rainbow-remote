@@ -4,3 +4,5 @@ orange orange orange
 orange is the second color of the rainbow
 yellow yellow yellow
 yellow is the third color of the rainbow
+green green green green
+green is the fourth color of the rainbow
