@@ -1,2 +1,3 @@
 brown is not color in rainbow
 gray is not color in rainbow
+black is not color in rainbow
